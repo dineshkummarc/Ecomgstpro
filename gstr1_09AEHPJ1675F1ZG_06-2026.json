@@ -1,0 +1,749 @@
+{
+    "gstin": "32QRRPS3983N1ZD",
+    "fp": "062026",
+    "b2cs": [
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "06",
+            "txval": 727,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "27",
+            "txval": 1774,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "29",
+            "txval": 2501,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "03",
+            "txval": 160,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "01",
+            "txval": 160,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "02",
+            "txval": 189,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "19",
+            "txval": 1285,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTRA",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "32",
+            "txval": 698,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "36",
+            "txval": 1108,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "13",
+            "txval": 160,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "18",
+            "txval": 349,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "07",
+            "txval": 1672,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "08",
+            "txval": 640,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "21",
+            "txval": 349,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "33",
+            "txval": 1217,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "24",
+            "txval": 1178,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "16",
+            "txval": 189,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "23",
+            "txval": 160,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "22",
+            "txval": 349,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "37",
+            "txval": 829,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "30",
+            "txval": 567,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "09",
+            "txval": 1806,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        },
+        {
+            "sply_ty": "INTER",
+            "rt": 0,
+            "typ": "OE",
+            "pos": "20",
+            "txval": 509,
+            "iamt": 0,
+            "samt": 0,
+            "camt": 0,
+            "csamt": 0
+        }
+    ],
+    "b2b": [
+        {
+            "ctin": "09AAICA3918J1CR",
+            "inv": [
+                {
+                    "inum": "INV-86999",
+                    "idt": "10-06-2026",
+                    "val": 727,
+                    "pos": "06",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 727,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87000",
+                    "idt": "10-06-2026",
+                    "val": 1774,
+                    "pos": "27",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1774,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87001",
+                    "idt": "10-06-2026",
+                    "val": 2501,
+                    "pos": "29",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 2501,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87002",
+                    "idt": "10-06-2026",
+                    "val": 160,
+                    "pos": "03",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87003",
+                    "idt": "10-06-2026",
+                    "val": 160,
+                    "pos": "01",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87004",
+                    "idt": "10-06-2026",
+                    "val": 189,
+                    "pos": "02",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 189,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87005",
+                    "idt": "10-06-2026",
+                    "val": 1285,
+                    "pos": "19",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1285,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87006",
+                    "idt": "10-06-2026",
+                    "val": 698,
+                    "pos": "32",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 698,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87007",
+                    "idt": "10-06-2026",
+                    "val": 1108,
+                    "pos": "36",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1108,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87008",
+                    "idt": "10-06-2026",
+                    "val": 160,
+                    "pos": "13",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87009",
+                    "idt": "10-06-2026",
+                    "val": 349,
+                    "pos": "18",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 349,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87010",
+                    "idt": "10-06-2026",
+                    "val": 1672,
+                    "pos": "07",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1672,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87011",
+                    "idt": "10-06-2026",
+                    "val": 640,
+                    "pos": "08",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 640,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87012",
+                    "idt": "10-06-2026",
+                    "val": 349,
+                    "pos": "21",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 349,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87013",
+                    "idt": "10-06-2026",
+                    "val": 1217,
+                    "pos": "33",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1217,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87014",
+                    "idt": "10-06-2026",
+                    "val": 1178,
+                    "pos": "24",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1178,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87015",
+                    "idt": "10-06-2026",
+                    "val": 189,
+                    "pos": "16",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 189,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87016",
+                    "idt": "10-06-2026",
+                    "val": 160,
+                    "pos": "23",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 160,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87017",
+                    "idt": "10-06-2026",
+                    "val": 349,
+                    "pos": "22",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 349,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87018",
+                    "idt": "10-06-2026",
+                    "val": 829,
+                    "pos": "37",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 829,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87019",
+                    "idt": "10-06-2026",
+                    "val": 567,
+                    "pos": "30",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 567,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87020",
+                    "idt": "10-06-2026",
+                    "val": 1806,
+                    "pos": "09",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 1806,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                },
+                {
+                    "inum": "INV-87021",
+                    "idt": "10-06-2026",
+                    "val": 509,
+                    "pos": "20",
+                    "rchrg": "N",
+                    "inv_typ": "R",
+                    "itms": [
+                        {
+                            "num": 1,
+                            "itm_det": {
+                                "txval": 509,
+                                "rt": 0,
+                                "iamt": 0,
+                                "camt": 0,
+                                "samt": 0,
+                                "csamt": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

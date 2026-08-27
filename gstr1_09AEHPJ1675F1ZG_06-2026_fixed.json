@@ -1,0 +1,21 @@
+{
+    "gstin": "32QRRPS3983N1ZD",
+    "fp": "062026",
+    "doc_issue": {
+        "doc_det": [
+            {
+                "doc_num": 1,
+                "docs": [
+                    {
+                        "num": 1,
+                        "from": "01",
+                        "to": "10",
+                        "totnum": 10,
+                        "cancel": 2,
+                        "net_issue": 8
+                    }
+                ]
+            }
+        ]
+    }
+}
